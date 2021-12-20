@@ -16,3 +16,9 @@ Logic Apps 99,9
 
 ## Tiempo sin disponibilidad en un Año
 Tno = 6832,8 min
+
+# Presentación
+https://www.canva.com/design/DAEy1KunPMk/qb_wIyygMJQrpiWkvP4H6w/view?utm_content=DAEy1KunPMk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+# TikTok
+https://vm.tiktok.com/ZM83Dt3hq/
